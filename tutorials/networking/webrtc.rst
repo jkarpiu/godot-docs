@@ -8,7 +8,7 @@ HTML5, WebSocket, WebRTC
 
 One of Godot's great features is its ability to export to the HTML5/WebAssembly platform, allowing your game to run directly in the browser when a user visit your webpage.
 
-This is a great opportunity for both demos and full games, but used to come with some limitations. In the area of networking, browsers used to support only HTTPRequests until recently, when first WebSocket and then WebRTC were proposed as standards.
+This is a great opportunity for both demos and full games, but used to come with some limitations. In the area of networking, browsers used to support only HTTP Requests until recently, when first WebSocket and then WebRTC were proposed as standards.
 
 WebSocket
 ^^^^^^^^^
